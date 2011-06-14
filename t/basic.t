@@ -5,7 +5,7 @@ use Test::More;
 
 BEGIN {
     package My::Exporter;
-    use Sub::Exporter::Sugar;
+    use Sub::Exporter::Declare;
 
     export 'foo';
     export_default 'bar';

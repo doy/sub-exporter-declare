@@ -1,4 +1,4 @@
-package Sub::Exporter::Sugar;
+package Sub::Exporter::Declare;
 use strict;
 use warnings;
 

@@ -10,4 +10,4 @@ nytprof.out
 MANIFEST.bak
 *.sw[po]
 .build
-Sub-Exporter-Sugar-*
+Sub-Exporter-Declare-*
